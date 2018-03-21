@@ -8,4 +8,6 @@ Project Goal - To analyze text patterns through text mining techniques and obtai
                Gain understanding through insights as to what works for and against them. 
                
  
+Please find attached a detailed report of the approach, insights and python code. 
+
 Source: Twitter Tweets
